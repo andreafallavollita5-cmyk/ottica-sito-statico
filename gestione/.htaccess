@@ -1,0 +1,20 @@
+# pannello di gestione: mai indicizzato, nessun elenco dei file
+DirectoryIndex index.php
+Options -Indexes
+<IfModule mod_headers.c>
+  Header set X-Robots-Tag "noindex, nofollow"
+</IfModule>
+# file interni: non raggiungibili dal browser
+<FilesMatch "^(lib|config)\.php$|^\.user\.ini$|\.(json|html)$">
+  <IfModule mod_authz_core.c>
+    Require all denied
+  </IfModule>
+  <IfModule !mod_authz_core.c>
+    Deny from all
+  </IfModule>
+</FilesMatch>
+# foto fino a 15 MB (se Aruba lo consente da .htaccess; altrimenti dal pannello Aruba)
+<IfModule mod_php.c>
+  php_value upload_max_filesize 16M
+  php_value post_max_size 20M
+</IfModule>

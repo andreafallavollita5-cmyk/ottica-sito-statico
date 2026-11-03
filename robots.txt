@@ -1,0 +1,12 @@
+# robots.txt — Ottica Demo
+User-agent: *
+Allow: /
+
+# risorse tecniche non indicizzabili
+Disallow: /design/
+Disallow: /media/
+Disallow: /seo-src/
+Disallow: /gestione/
+Disallow: /contenuti/privato/
+
+Sitemap: https://www.example.com/sitemap.xml

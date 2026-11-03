@@ -1,0 +1,822 @@
+[
+ {
+  "base": "/assets/img/approved/art_lac",
+  "file": {
+   "480": "/assets/img/approved/art_lac-480.webp",
+   "900": "/assets/img/approved/art_lac-900.webp",
+   "1600": "/assets/img/approved/art_lac-1600.webp"
+  },
+  "w": 1280,
+  "h": 716,
+  "pagine": [
+   {
+    "url": "/blog/",
+    "titolo": "Blog sulla salute visiva"
+   },
+   {
+    "url": "/blog/lenti-a-contatto-guida/",
+    "titolo": "Lenti a contatto: la guida completa"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/art_miopia",
+  "file": {
+   "480": "/assets/img/approved/art_miopia-480.webp",
+   "900": "/assets/img/approved/art_miopia-900.webp",
+   "1600": "/assets/img/approved/art_miopia-1600.webp"
+  },
+  "w": 1280,
+  "h": 716,
+  "pagine": [
+   {
+    "url": "/blog/",
+    "titolo": "Blog sulla salute visiva"
+   },
+   {
+    "url": "/blog/miopia-bambini-come-rallentarla/",
+    "titolo": "Miopia nei bambini: come rallentarla davvero"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/art_multi",
+  "file": {
+   "480": "/assets/img/approved/art_multi-480.webp",
+   "900": "/assets/img/approved/art_multi-900.webp",
+   "1600": "/assets/img/approved/art_multi-1600.webp"
+  },
+  "w": 1280,
+  "h": 716,
+  "pagine": [
+   {
+    "url": "/blog/",
+    "titolo": "Blog sulla salute visiva"
+   },
+   {
+    "url": "/blog/multi-equipaggiamento-occhiali/",
+    "titolo": "Multi-equipaggiamento: perché un occhiale solo"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/art_office",
+  "file": {
+   "480": "/assets/img/approved/art_office-480.webp",
+   "900": "/assets/img/approved/art_office-900.webp",
+   "1600": "/assets/img/approved/art_office-1600.webp"
+  },
+  "w": 1280,
+  "h": 716,
+  "pagine": [
+   {
+    "url": "/blog/",
+    "titolo": "Blog sulla salute visiva"
+   },
+   {
+    "url": "/blog/lenti-office-per-presbiti/",
+    "titolo": "Lenti office: la soluzione per chi lavora alla"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/art_pc",
+  "file": {
+   "480": "/assets/img/approved/art_pc-480.webp",
+   "900": "/assets/img/approved/art_pc-900.webp",
+   "1600": "/assets/img/approved/art_pc-1600.webp"
+  },
+  "w": 1280,
+  "h": 716,
+  "pagine": [
+   {
+    "url": "/blog/",
+    "titolo": "Blog sulla salute visiva"
+   },
+   {
+    "url": "/blog/vista-e-computer-affaticamento-visivo/",
+    "titolo": "Vista e computer: capire l’affaticamento"
+   },
+   {
+    "url": "/curiosita/occhi-stanchi/",
+    "titolo": "Vista e computer: capire l’affaticamento vi"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/art_prog",
+  "file": {
+   "480": "/assets/img/approved/art_prog-480.webp",
+   "900": "/assets/img/approved/art_prog-900.webp",
+   "1600": "/assets/img/approved/art_prog-1600.webp"
+  },
+  "w": 1280,
+  "h": 716,
+  "pagine": [
+   {
+    "url": "/blog/",
+    "titolo": "Blog sulla salute visiva"
+   },
+   {
+    "url": "/blog/lenti-progressive-come-sceglierle/",
+    "titolo": "Lenti progressive: come sceglierle"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/bimbo",
+  "file": {
+   "480": "/assets/img/approved/bimbo-480.webp",
+   "900": "/assets/img/approved/bimbo-900.webp",
+   "1600": "/assets/img/approved/bimbo-1600.webp"
+  },
+  "w": 363,
+  "h": 364,
+  "pagine": [
+   {
+    "url": "/bambino/",
+    "titolo": "Occhiali bambino"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/buono-regalo",
+  "file": {
+   "480": "/assets/img/approved/buono-regalo-480.webp",
+   "900": "/assets/img/approved/buono-regalo-900.webp",
+   "1600": "/assets/img/approved/buono-regalo-1600.webp"
+  },
+  "w": 1536,
+  "h": 1024,
+  "pagine": [
+   {
+    "url": "/buono-regalo/",
+    "titolo": "Buono regalo"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/centratura-hoya",
+  "file": {
+   "480": "/assets/img/approved/centratura-hoya-480.webp",
+   "900": "/assets/img/approved/centratura-hoya-900.webp",
+   "1600": "/assets/img/approved/centratura-hoya-1600.webp"
+  },
+  "w": 1152,
+  "h": 2048,
+  "pagine": [
+   {
+    "url": "/servizi/",
+    "titolo": "I nostri servizi"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/eco-modo-sostenibilita",
+  "file": {
+   "480": "/assets/img/approved/eco-modo-sostenibilita-480.webp",
+   "900": "/assets/img/approved/eco-modo-sostenibilita-900.webp",
+   "1600": "/assets/img/approved/eco-modo-sostenibilita-1600.webp"
+  },
+  "w": 1536,
+  "h": 1024,
+  "pagine": [
+   {
+    "url": "/chi-siamo/",
+    "titolo": "La vista non si ripara. Si custodisce"
+   },
+   {
+    "url": "/sostenibilita/",
+    "titolo": "Il nostro impegno per la sostenibilità"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/forest",
+  "file": {
+   "480": "/assets/img/approved/forest-480.webp",
+   "900": "/assets/img/approved/forest-900.webp",
+   "1600": "/assets/img/approved/forest-1600.webp"
+  },
+  "w": 1400,
+  "h": 782,
+  "pagine": [
+   {
+    "url": "/chi-siamo/",
+    "titolo": "La vista non si ripara. Si custodisce"
+   },
+   {
+    "url": "/sostenibilita/",
+    "titolo": "Il nostro impegno per la sostenibilità"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/forottero-ai",
+  "file": {
+   "480": "/assets/img/approved/forottero-ai-480.webp",
+   "900": "/assets/img/approved/forottero-ai-900.webp",
+   "1600": "/assets/img/approved/forottero-ai-1600.webp"
+  },
+  "w": 1600,
+  "h": 900,
+  "pagine": [
+   {
+    "url": "/servizi/",
+    "titolo": "I nostri servizi"
+   },
+   {
+    "url": "/prenota/",
+    "titolo": "Prenota appuntamento"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/girl",
+  "file": {
+   "480": "/assets/img/approved/girl-480.webp",
+   "900": "/assets/img/approved/girl-900.webp",
+   "1600": "/assets/img/approved/girl-1600.webp"
+  },
+  "w": 1400,
+  "h": 934,
+  "pagine": [
+   {
+    "url": "/blog/",
+    "titolo": "Blog sulla salute visiva"
+   },
+   {
+    "url": "/blog/disfunzione-film-lacrimale/",
+    "titolo": "Disfunzione del film lacrimale: quando"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/hero",
+  "file": {
+   "480": "/assets/img/approved/hero-480.webp",
+   "900": "/assets/img/approved/hero-900.webp",
+   "1600": "/assets/img/approved/hero-1600.webp"
+  },
+  "w": 869,
+  "h": 1086,
+  "pagine": [
+   {
+    "url": "/",
+    "titolo": "Ottica Demo | Ottico a Milano, via Roma"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/hoya",
+  "file": {
+   "480": "/assets/img/approved/hoya-480.webp",
+   "900": "/assets/img/approved/hoya-900.webp",
+   "1600": "/assets/img/approved/hoya-1600.webp"
+  },
+  "w": 714,
+  "h": 426,
+  "pagine": [
+   {
+    "url": "/convenzioni/",
+    "titolo": "Convenzioni e fondi assistenziali"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/insegna-orari",
+  "file": {
+   "480": "/assets/img/approved/insegna-orari-480.webp",
+   "900": "/assets/img/approved/insegna-orari-900.webp",
+   "1600": "/assets/img/approved/insegna-orari-1600.webp"
+  },
+  "w": 1448,
+  "h": 1086,
+  "pagine": [
+   {
+    "url": "/orari/",
+    "titolo": "Orari di apertura"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/lab",
+  "file": {
+   "480": "/assets/img/approved/lab-480.webp",
+   "900": "/assets/img/approved/lab-900.webp",
+   "1600": "/assets/img/approved/lab-1600.webp"
+  },
+  "w": 714,
+  "h": 472,
+  "pagine": [
+   {
+    "url": "/servizi/",
+    "titolo": "I nostri servizi"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/laboratorio-ai",
+  "file": {
+   "480": "/assets/img/approved/laboratorio-ai-480.webp",
+   "900": "/assets/img/approved/laboratorio-ai-900.webp",
+   "1600": "/assets/img/approved/laboratorio-ai-1600.webp"
+  },
+  "w": 1600,
+  "h": 900,
+  "pagine": [
+   {
+    "url": "/servizi/",
+    "titolo": "I nostri servizi"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/lente-lavorazione",
+  "file": {
+   "480": "/assets/img/approved/lente-lavorazione-480.webp",
+   "900": "/assets/img/approved/lente-lavorazione-900.webp",
+   "1600": "/assets/img/approved/lente-lavorazione-1600.webp"
+  },
+  "w": 1600,
+  "h": 900,
+  "pagine": [
+   {
+    "url": "/servizi/",
+    "titolo": "I nostri servizi"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/milano",
+  "file": {
+   "480": "/assets/img/approved/milano-480.webp",
+   "900": "/assets/img/approved/milano-900.webp",
+   "1600": "/assets/img/approved/milano-1600.webp"
+  },
+  "w": 1400,
+  "h": 584,
+  "pagine": [
+   {
+    "url": "/blog/",
+    "titolo": "Blog sulla salute visiva"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/montatura-tracciatura",
+  "file": {
+   "480": "/assets/img/approved/montatura-tracciatura-480.webp",
+   "900": "/assets/img/approved/montatura-tracciatura-900.webp",
+   "1600": "/assets/img/approved/montatura-tracciatura-1600.webp"
+  },
+  "w": 1600,
+  "h": 900,
+  "pagine": [
+   {
+    "url": "/servizi/",
+    "titolo": "I nostri servizi"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/negozio",
+  "file": {
+   "480": "/assets/img/approved/negozio-480.webp",
+   "900": "/assets/img/approved/negozio-900.webp",
+   "1600": "/assets/img/approved/negozio-1600.webp"
+  },
+  "w": 471,
+  "h": 306,
+  "pagine": [
+   {
+    "url": "/",
+    "titolo": "Ottica Demo | Ottico a Milano, via Roma"
+   },
+   {
+    "url": "/chi-siamo/",
+    "titolo": "La vista non si ripara. Si custodisce"
+   },
+   {
+    "url": "/orari/",
+    "titolo": "Orari di apertura"
+   },
+   {
+    "url": "/dove-siamo/",
+    "titolo": "Dove siamo"
+   },
+   {
+    "url": "/servizi/",
+    "titolo": "I nostri servizi"
+   },
+   {
+    "url": "/convenzioni/",
+    "titolo": "Convenzioni e fondi assistenziali"
+   },
+   {
+    "url": "/promozioni/",
+    "titolo": "Promozioni"
+   },
+   {
+    "url": "/buono-regalo/",
+    "titolo": "Buono regalo"
+   },
+   {
+    "url": "/uomo/",
+    "titolo": "Occhiali uomo"
+   },
+   {
+    "url": "/donna/",
+    "titolo": "Occhiali donna"
+   },
+   {
+    "url": "/bambino/",
+    "titolo": "Occhiali bambino"
+   },
+   {
+    "url": "/curiosita/",
+    "titolo": "Curiosità"
+   },
+   {
+    "url": "/prenota/",
+    "titolo": "Prenota appuntamento"
+   },
+   {
+    "url": "/blog/",
+    "titolo": "Blog sulla salute visiva"
+   },
+   {
+    "url": "/blog/miopia-bambini-come-rallentarla/",
+    "titolo": "Miopia nei bambini: come rallentarla davvero"
+   },
+   {
+    "url": "/blog/lenti-progressive-come-sceglierle/",
+    "titolo": "Lenti progressive: come sceglierle"
+   },
+   {
+    "url": "/blog/lenti-office-per-presbiti/",
+    "titolo": "Lenti office: la soluzione per chi lavora alla"
+   },
+   {
+    "url": "/blog/multi-equipaggiamento-occhiali/",
+    "titolo": "Multi-equipaggiamento: perché un occhiale solo"
+   },
+   {
+    "url": "/blog/lenti-a-contatto-guida/",
+    "titolo": "Lenti a contatto: la guida completa"
+   },
+   {
+    "url": "/blog/vista-e-computer-affaticamento-visivo/",
+    "titolo": "Vista e computer: capire l’affaticamento"
+   },
+   {
+    "url": "/blog/centratura-digitale-perche-conta/",
+    "titolo": "Centratura digitale: perché conta più di"
+   },
+   {
+    "url": "/blog/disfunzione-film-lacrimale/",
+    "titolo": "Disfunzione del film lacrimale: quando"
+   },
+   {
+    "url": "/curiosita/10-cose-da-evitare/",
+    "titolo": "10 cose da evitare"
+   },
+   {
+    "url": "/curiosita/ci-vedo-bene/",
+    "titolo": "Ci vedo bene? Scoprilo in 10 valutazioni"
+   },
+   {
+    "url": "/contatti/",
+    "titolo": "Dove siamo"
+   },
+   {
+    "url": "/curiosita/occhi-stanchi/",
+    "titolo": "Vista e computer: capire l’affaticamento vi"
+   },
+   {
+    "url": "/sostenibilita/",
+    "titolo": "Il nostro impegno per la sostenibilità"
+   },
+   {
+    "url": "/cookie-policy/",
+    "titolo": "Cookie policy"
+   },
+   {
+    "url": "/blog/occhiali-da-sole-lenti-polarizzate/",
+    "titolo": "Lenti polarizzate: a cosa servono"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/negozio-orari",
+  "file": {
+   "480": "/assets/img/approved/negozio-orari-480.webp",
+   "900": "/assets/img/approved/negozio-orari-900.webp",
+   "1600": "/assets/img/approved/negozio-orari-1600.webp"
+  },
+  "w": 1600,
+  "h": 893,
+  "pagine": [
+   {
+    "url": "/",
+    "titolo": "Ottica Demo | Ottico a Milano, via Roma"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/ottico-laboratorio",
+  "file": {
+   "480": "/assets/img/approved/ottico-laboratorio-480.webp",
+   "900": "/assets/img/approved/ottico-laboratorio-900.webp",
+   "1600": "/assets/img/approved/ottico-laboratorio-1600.webp"
+  },
+  "w": 1448,
+  "h": 1086,
+  "pagine": [
+   {
+    "url": "/",
+    "titolo": "Ottica Demo | Ottico a Milano, via Roma"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/quoise-sostenibilita",
+  "file": {
+   "480": "/assets/img/approved/quoise-sostenibilita-480.webp",
+   "900": "/assets/img/approved/quoise-sostenibilita-900.webp",
+   "1600": "/assets/img/approved/quoise-sostenibilita-1600.webp"
+  },
+  "w": 1536,
+  "h": 1024,
+  "pagine": [
+   {
+    "url": "/chi-siamo/",
+    "titolo": "La vista non si ripara. Si custodisce"
+   },
+   {
+    "url": "/sostenibilita/",
+    "titolo": "Il nostro impegno per la sostenibilità"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/sole",
+  "file": {
+   "480": "/assets/img/approved/sole-480.webp",
+   "900": "/assets/img/approved/sole-900.webp",
+   "1600": "/assets/img/approved/sole-1600.webp"
+  },
+  "w": 363,
+  "h": 364,
+  "pagine": [
+   {
+    "url": "/uomo/",
+    "titolo": "Occhiali uomo"
+   },
+   {
+    "url": "/donna/",
+    "titolo": "Occhiali donna"
+   },
+   {
+    "url": "/bambino/",
+    "titolo": "Occhiali bambino"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/tech",
+  "file": {
+   "480": "/assets/img/approved/tech-480.webp",
+   "900": "/assets/img/approved/tech-900.webp",
+   "1600": "/assets/img/approved/tech-1600.webp"
+  },
+  "w": 1400,
+  "h": 584,
+  "pagine": [
+   {
+    "url": "/blog/",
+    "titolo": "Blog sulla salute visiva"
+   },
+   {
+    "url": "/blog/centratura-digitale-perche-conta/",
+    "titolo": "Centratura digitale: perché conta più di"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/titolare",
+  "file": {
+   "480": "/assets/img/approved/titolare-480.webp",
+   "900": "/assets/img/approved/titolare-900.webp",
+   "1600": "/assets/img/approved/titolare-1600.webp"
+  },
+  "w": 700,
+  "h": 458,
+  "pagine": [
+   {
+    "url": "/blog/",
+    "titolo": "Blog sulla salute visiva"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/titolare-restaurato",
+  "file": {
+   "480": "/assets/img/approved/titolare-restaurato-480.webp",
+   "900": "/assets/img/approved/titolare-restaurato-900.webp",
+   "1600": "/assets/img/approved/titolare-restaurato-1600.webp"
+  },
+  "w": 1536,
+  "h": 1024,
+  "pagine": [
+   {
+    "url": "/chi-siamo/",
+    "titolo": "La vista non si ripara. Si custodisce"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/topografo",
+  "file": {
+   "480": "/assets/img/approved/topografo-480.webp",
+   "900": "/assets/img/approved/topografo-900.webp",
+   "1600": "/assets/img/approved/topografo-1600.webp"
+  },
+  "w": 1152,
+  "h": 2048,
+  "pagine": [
+   {
+    "url": "/servizi/",
+    "titolo": "I nostri servizi"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/vetrina-bambino",
+  "file": {
+   "480": "/assets/img/approved/vetrina-bambino-480.webp",
+   "900": "/assets/img/approved/vetrina-bambino-900.webp",
+   "1600": "/assets/img/approved/vetrina-bambino-1600.webp"
+  },
+  "w": 450,
+  "h": 450,
+  "pagine": [
+   {
+    "url": "/",
+    "titolo": "Ottica Demo | Ottico a Milano, via Roma"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/vetrina-donna",
+  "file": {
+   "480": "/assets/img/approved/vetrina-donna-480.webp",
+   "900": "/assets/img/approved/vetrina-donna-900.webp",
+   "1600": "/assets/img/approved/vetrina-donna-1600.webp"
+  },
+  "w": 450,
+  "h": 450,
+  "pagine": [
+   {
+    "url": "/",
+    "titolo": "Ottica Demo | Ottico a Milano, via Roma"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/vetrina-dove-siamo",
+  "file": {
+   "480": "/assets/img/approved/vetrina-dove-siamo-480.webp",
+   "900": "/assets/img/approved/vetrina-dove-siamo-900.webp",
+   "1600": "/assets/img/approved/vetrina-dove-siamo-1600.webp"
+  },
+  "w": 1445,
+  "h": 1088,
+  "pagine": [
+   {
+    "url": "/dove-siamo/",
+    "titolo": "Dove siamo"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/vetrina-uomo",
+  "file": {
+   "480": "/assets/img/approved/vetrina-uomo-480.webp",
+   "900": "/assets/img/approved/vetrina-uomo-900.webp",
+   "1600": "/assets/img/approved/vetrina-uomo-1600.webp"
+  },
+  "w": 450,
+  "h": 450,
+  "pagine": [
+   {
+    "url": "/",
+    "titolo": "Ottica Demo | Ottico a Milano, via Roma"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/vista",
+  "file": {
+   "480": "/assets/img/approved/vista-480.webp",
+   "900": "/assets/img/approved/vista-900.webp",
+   "1600": "/assets/img/approved/vista-1600.webp"
+  },
+  "w": 363,
+  "h": 364,
+  "pagine": [
+   {
+    "url": "/uomo/",
+    "titolo": "Occhiali uomo"
+   },
+   {
+    "url": "/donna/",
+    "titolo": "Occhiali donna"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/approved/webee-sostenibilita",
+  "file": {
+   "480": "/assets/img/approved/webee-sostenibilita-480.webp",
+   "900": "/assets/img/approved/webee-sostenibilita-900.webp",
+   "1600": "/assets/img/approved/webee-sostenibilita-1600.webp"
+  },
+  "w": 1536,
+  "h": 1024,
+  "pagine": [
+   {
+    "url": "/chi-siamo/",
+    "titolo": "La vista non si ripara. Si custodisce"
+   },
+   {
+    "url": "/sostenibilita/",
+    "titolo": "Il nostro impegno per la sostenibilità"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/sala-esame-forottero",
+  "file": {
+   "480": "/assets/img/sala-esame-forottero-480.webp",
+   "900": "/assets/img/sala-esame-forottero-900.webp",
+   "1600": "/assets/img/sala-esame-forottero.webp"
+  },
+  "w": 1204,
+  "h": 1600,
+  "pagine": [
+   {
+    "url": "/blog/occhiali-da-sole-lenti-polarizzate/",
+    "titolo": "Lenti polarizzate: a cosa servono"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/scaffale-marchi",
+  "file": {
+   "480": "/assets/img/scaffale-marchi-480.webp",
+   "900": "/assets/img/scaffale-marchi-900.webp",
+   "1600": "/assets/img/scaffale-marchi.webp"
+  },
+  "w": 1204,
+  "h": 1600,
+  "pagine": [
+   {
+    "url": "/blog/occhiali-da-sole-lenti-polarizzate/",
+    "titolo": "Lenti polarizzate: a cosa servono"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/scaffale-solari",
+  "file": {
+   "480": "/assets/img/scaffale-solari-480.webp",
+   "900": "/assets/img/scaffale-solari-900.webp",
+   "1600": "/assets/img/scaffale-solari.webp"
+  },
+  "w": 1204,
+  "h": 1600,
+  "pagine": [
+   {
+    "url": "/blog/occhiali-da-sole-lenti-polarizzate/",
+    "titolo": "Lenti polarizzate: a cosa servono"
+   }
+  ]
+ },
+ {
+  "base": "/assets/img/titolare-ritratto",
+  "file": {
+   "480": "/assets/img/titolare-ritratto-480.webp",
+   "900": "/assets/img/titolare-ritratto-900.webp",
+   "1600": "/assets/img/titolare-ritratto.webp"
+  },
+  "w": 1204,
+  "h": 1600,
+  "pagine": [
+   {
+    "url": "/blog/occhiali-da-sole-lenti-polarizzate/",
+    "titolo": "Lenti polarizzate: a cosa servono"
+   }
+  ]
+ }
+]

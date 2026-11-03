@@ -1,0 +1,12 @@
+# dati creati dal pannello in esercizio
+contenuti/privato/utente.json
+contenuti/privato/*.bak
+contenuti/foto/
+contenuti/foto-sito/
+
+# ambiente locale
+.env
+*.log
+node_modules/
+.DS_Store
+Thumbs.db

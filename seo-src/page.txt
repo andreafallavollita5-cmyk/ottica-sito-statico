@@ -1,0 +1,11 @@
+﻿https://www.example.com/
+https://www.example.com/chi-siamo/
+https://www.example.com/dove-siamo/
+https://www.example.com/servizi/
+https://www.example.com/cookie-policy-ue/
+https://www.example.com/termini-e-condizioni/
+https://www.example.com/prenota/
+https://www.example.com/prodotti-marchi/
+https://www.example.com/contatti/
+https://www.example.com/vetrina/
+https://www.example.com/prova-meteo/
